@@ -100,6 +100,5 @@ int main(void)
     
     close(serverfd);
     printf("\nConexão encerrada!\n\n");
-    return(EXIT_SUCCESS);
-  
+    return(EXIT_SUCCESS); 
 }
