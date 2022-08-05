@@ -62,5 +62,4 @@ int main(void)
     close(sockfd);
     printf("Conexão encerrada!\n\n");
     return(EXIT_SUCCESS);
-
 }
