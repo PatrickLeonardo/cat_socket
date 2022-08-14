@@ -9,6 +9,10 @@ Socket made with c language to view .txt files in terminal on client side
 ## 📨 Versions
 (GCC) 12.1.1
 
+💾 Install
+
+``` git clone https://github.com/PatrickLeonardo/cat-socket/ ```
+
 ## 📝 How to use
 - compile and read server.c 
 - compile and read client.c
