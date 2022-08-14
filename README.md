@@ -1,4 +1,4 @@
-# Cat Socket
+# Cat Socket (PT-BR)
 
 Socket made with c language to view .txt files in terminal on client side
 
